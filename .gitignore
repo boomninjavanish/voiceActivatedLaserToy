@@ -7,3 +7,7 @@ Thumbs.db
 
 # ignore Visual Sutdio Code folder
 .vscode/
+
+# ignore markdown preview files
+README.html 
+README.log
