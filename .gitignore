@@ -1,0 +1,6 @@
+# ignore the config file as it contains user names and passwords
+config.h
+
+# ignore system files
+.DS_Store
+Thumbs.db
