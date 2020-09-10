@@ -4,3 +4,6 @@ config.h
 # ignore system files
 .DS_Store
 Thumbs.db
+
+# ignore Visual Sutdio Code folder
+.vscode/
